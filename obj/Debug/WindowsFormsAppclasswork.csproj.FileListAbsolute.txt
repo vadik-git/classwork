@@ -1,0 +1,9 @@
+C:\Users\Vadim\source\repos\WindowsFormsLesson4-ListBox-ComboBox\WindowsFormsAppclasswork\bin\Debug\WindowsFormsAppclasswork.exe.config
+C:\Users\Vadim\source\repos\WindowsFormsLesson4-ListBox-ComboBox\WindowsFormsAppclasswork\bin\Debug\WindowsFormsAppclasswork.exe
+C:\Users\Vadim\source\repos\WindowsFormsLesson4-ListBox-ComboBox\WindowsFormsAppclasswork\bin\Debug\WindowsFormsAppclasswork.pdb
+C:\Users\Vadim\source\repos\WindowsFormsLesson4-ListBox-ComboBox\WindowsFormsAppclasswork\obj\Debug\WindowsFormsAppclasswork.Properties.Resources.resources
+C:\Users\Vadim\source\repos\WindowsFormsLesson4-ListBox-ComboBox\WindowsFormsAppclasswork\obj\Debug\WindowsFormsAppclasswork.csproj.GenerateResource.cache
+C:\Users\Vadim\source\repos\WindowsFormsLesson4-ListBox-ComboBox\WindowsFormsAppclasswork\obj\Debug\WindowsFormsAppclasswork.csproj.CoreCompileInputs.cache
+C:\Users\Vadim\source\repos\WindowsFormsLesson4-ListBox-ComboBox\WindowsFormsAppclasswork\obj\Debug\WindowsFormsAppclasswork.exe
+C:\Users\Vadim\source\repos\WindowsFormsLesson4-ListBox-ComboBox\WindowsFormsAppclasswork\obj\Debug\WindowsFormsAppclasswork.pdb
+C:\Users\Vadim\source\repos\WindowsFormsLesson4-ListBox-ComboBox\WindowsFormsAppclasswork\obj\Debug\WindowsFormsAppclasswork.Form1.resources
